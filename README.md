@@ -8,4 +8,4 @@ Interactive portfolio game developed using [Replay.js](https://github.com/edbent
 
 Assets used with permission from [Studio Vaca Roxa](https://bakudas.itch.io/), [Arks](https://arks.itch.io/) and [Hyohnoo](https://hyohnoo.itch.io/) on itch.io
 
-Visit the site at https://minhalee999.github.io/ 
+Visit the site at https://minhaminha.github.io/ 
